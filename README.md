@@ -89,6 +89,7 @@ Agent frameworks with native or plugin x402 support:
 
 ## Tools
 
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** — Local macOS CLI and stdio MCP runtime for inspecting x402 offers and preparing purchases under owner-set limits; foreground approval is required for EVM purchase signing.
 - **[x402-list.com](https://x402-list.com)** — Directory of x402-enabled services. Submit your service.
 - **[Smithery](https://smithery.ai)** — MCP marketplace. Many x402 MCP servers listed.
 - **[Glama](https://glama.ai)** — Another MCP registry with x402 support.
