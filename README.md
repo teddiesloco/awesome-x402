@@ -24,6 +24,7 @@ x402-enabled APIs your agent can call right now. All support Base L2 and/or Sola
 | Service | Category | Price/call | Networks | Free Trial |
 |---|---|---|---|---|
 | [AgentGate](https://x402.agentsea.vn) | Web scraping, Prompt guard, Domain intel, AEO audit | $0.001–$0.05 | Base L2, Solana | 8 calls |
+| [Chain Hunter On-Chain Oracle](https://pfq-opencode-wr96rj6p4xwwh59v-8001.app.github.dev) | On-chain data, NVIDIA NIM code review, Security simulation, Compute | $0.01-$0.15 | Base L2, Solana | `/health` + manifest |
 | [Add yours →](https://github.com/teddiesloco/agentgate-x402/edit/main/packages/awesome-x402/README.md) | | | | |
 
 ### AgentGate
